@@ -1,0 +1,16 @@
+<svg width="840" height="194" viewBox="0 0 840 194" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="838" height="192" rx="14" fill="#0A0A0B" stroke="#24262B" stroke-width="1"/>
+  <line x1="420" y1="24" x2="420" y2="170" stroke="#24262B" stroke-width="1"/>
+
+  <text x="32" y="42" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="700" fill="#EDEBE4">Right now</text>
+  <text x="32" y="72" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#97968F">• Building AI powered product experiences</text>
+  <text x="32" y="96" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#97968F">• Refining a personal design system</text>
+  <text x="32" y="120" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#97968F">• Writing about design and AI</text>
+  <text x="32" y="144" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#97968F">• Learning in public, mostly by shipping</text>
+
+  <text x="452" y="42" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="700" fill="#EDEBE4">Drawn to</text>
+  <text x="452" y="72" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#97968F">• Product design × AI</text>
+  <text x="452" y="96" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#97968F">• Design systems at scale</text>
+  <text x="452" y="120" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#97968F">• Behavioral psychology in UX</text>
+  <text x="452" y="144" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="13" fill="#97968F">• AI assisted filmmaking</text>
+</svg>
