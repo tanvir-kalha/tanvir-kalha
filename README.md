@@ -85,8 +85,7 @@ I write on Medium about product design, AI, and building things in public.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-kalha&theme=dark&hide_border=true&background=0A0A0B&stroke=0A0A0B&ring=6C7CFF&fire=6C7CFF&currStreakLabel=EDEBE4" alt="GitHub Streak" width="100%" />
-
+<img src="https://streak-stats.demolab.com?user=tanvir-kalha&theme=dark&hide_border=true&background=0A0A0B&stroke=0A0A0B&ring=6C7CFF&fire=6C7CFF&currStreakLabel=EDEBE4" alt="GitHub Streak" width="100%" />
 </div>
 
 <br />
